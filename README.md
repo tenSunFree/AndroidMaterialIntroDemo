@@ -20,7 +20,7 @@ https://play.google.com/store/apps/details?id=tw.com.feebee
 <p align="left">
   <img src="https://i.imgur.com/8O1Ttt6.png" width="230"/>
   <img src="https://i.imgur.com/SPiodRl.png" width="230"/>
-  <img src="https://i.imgur.com/rYHu2Xe.png" width="230"/>
+  <img src="https://i.imgur.com/cFL3CUM.png" width="230"/>
   <img src="https://i.imgur.com/rYHu2Xe.png" width="230"/>
 </p> 
 
