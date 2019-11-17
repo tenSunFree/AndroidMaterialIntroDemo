@@ -10,7 +10,7 @@ material-intro
 https://github.com/heinrichreimer/material-intro  
 
 andOTP                                                                 
-https://github.com/andOTP/andOTPP          
+https://github.com/andOTP/andOTP          
           	
 飛比價格 - 購物拍賣比價找便宜必備小幫手 - Feebee                                                                 
 https://play.google.com/store/apps/details?id=tw.com.feebee        
